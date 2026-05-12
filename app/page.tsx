@@ -10,7 +10,7 @@ export default function Home() {
         </h1>
 
         <p className="mt-4 text-zinc-500 text-lg">
-          AI接点設計
+          AI接点設計 top
         </p>
 
       </div>
